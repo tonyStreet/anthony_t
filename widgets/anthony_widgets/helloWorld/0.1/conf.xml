@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.anthony.widgets.HelloWorldWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Hello World</label>
+  <description>Hello World Widget</description>
+</widget>

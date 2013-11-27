@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.anthony.widgets.MenuWidgetWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Menu Widget</label>
+  <description>Menu Widget</description>
+</widget>

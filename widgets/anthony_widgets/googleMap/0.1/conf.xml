@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.anthony.widgets.GoogleMapWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Google Map</label>
+  <description>Google Map Widget</description>
+</widget>
